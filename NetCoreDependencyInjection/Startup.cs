@@ -36,6 +36,8 @@ namespace NetCoreDependencyInjection
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
             services.AddTransient<IBook, BookSql>();
+            services.AddScoped<IUser, User>();
+            services.AddTransient<IComment, Comment>();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
