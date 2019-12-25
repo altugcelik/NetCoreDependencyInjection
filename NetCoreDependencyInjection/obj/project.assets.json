@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\altug.celik\\OneDrive - DRD\\Masaustu\\altug\\NetCoreDependencyInjection\\NetCoreDependencyInjection\\NetCoreDependencyInjection.csproj",
+      "projectUniqueName": "C:\\Users\\altug.celik\\OneDrive - DRD\\Masaustu\\altug\\Git\\NetCoreDependencyInjection\\NetCoreDependencyInjection\\NetCoreDependencyInjection.csproj",
       "projectName": "NetCoreDependencyInjection",
-      "projectPath": "C:\\Users\\altug.celik\\OneDrive - DRD\\Masaustu\\altug\\NetCoreDependencyInjection\\NetCoreDependencyInjection\\NetCoreDependencyInjection.csproj",
+      "projectPath": "C:\\Users\\altug.celik\\OneDrive - DRD\\Masaustu\\altug\\Git\\NetCoreDependencyInjection\\NetCoreDependencyInjection\\NetCoreDependencyInjection.csproj",
       "packagesPath": "C:\\Users\\altug.celik\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\altug.celik\\OneDrive - DRD\\Masaustu\\altug\\NetCoreDependencyInjection\\NetCoreDependencyInjection\\obj\\",
+      "outputPath": "C:\\Users\\altug.celik\\OneDrive - DRD\\Masaustu\\altug\\Git\\NetCoreDependencyInjection\\NetCoreDependencyInjection\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

@@ -35,7 +35,7 @@ namespace NetCoreDependencyInjection
 
 
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
-            services.AddTransient<IBook, BookSql>();
+            services.AddTransient<IBook, BookMongo>();
             services.AddScoped<IUser, User>();
             services.AddTransient<IComment, Comment>();
         }
