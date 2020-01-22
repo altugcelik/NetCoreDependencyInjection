@@ -8,5 +8,6 @@ namespace NetCoreDependencyInjection.Interfaces
     public interface IBook
     {
         string GetBooks();
+        string deneme();
     }
 }

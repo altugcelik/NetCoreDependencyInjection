@@ -8,10 +8,17 @@ namespace NetCoreDependencyInjection.Services
 {
     public class Book : IBook
     {
+        public string deneme()
+        {
+            return "deneme";
+        }
+
         //list çek
         public string GetBooks()
         {
             return "First entiy Book";
         }
+
+       
     }
 }

@@ -27,6 +27,7 @@ namespace NetCoreDependencyInjection.Controllers
             var b = _book.GetBooks();
             var c = _comment.GetComments();
             var u = _user.Getuser();
+            var d = _book.deneme();
             return View();
         }
 
